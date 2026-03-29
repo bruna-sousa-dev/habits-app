@@ -1,0 +1,8 @@
+[project]
+name = "HabitsApp"
+version = "0.1.0"
+dependencies = ["flet==0.83.0"]
+
+[tool.flet.app]
+path = "."
+module = "main.py"
